@@ -8,3 +8,4 @@
 - [Compare-Syntax](https://github.com/Yusuf-Ibrahim-Malik-Dev/Compare-Syntax) — Bandingkan sintaks berbagai bahasa pemrograman
 - [Convert-String-To-Json](https://github.com/Yusuf-Ibrahim-Malik-Dev/Convert-String-To-Json) — Rapikan kode berantakan menjadi format JSON
 - [Multi-Text-And-Table-Designer-To-HTML](https://github.com/Yusuf-Ibrahim-Malik-Dev/Multi-Text-And-Table-Designer-To-HTML) — Editor visual untuk membuat teks dan tabel HTML
+- [Aplikasi-Toko-Modern](https://github.com/Yusuf-Ibrahim-Malik-Dev/Aplikasi-Toko-Modern) - Aplikasi desktop untuk memonitoring data toko.
