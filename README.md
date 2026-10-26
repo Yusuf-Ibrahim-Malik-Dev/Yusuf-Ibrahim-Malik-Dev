@@ -31,6 +31,7 @@ Saya memiliki ketertarikan dalam membangun aplikasi yang terstruktur, mudah dike
 
 ---
 
+
 ## 🛠️ Teknologi dan Tools
 
 ### 💻 Bahasa Pemrograman & Framework
@@ -59,6 +60,17 @@ Saya memiliki ketertarikan dalam membangun aplikasi yang terstruktur, mudah dike
 </p>
 
 ---
+
+## Proyek Unggulan
+
+- [Tree-Family](https://github.com/Yusuf-Ibrahim-Malik-Dev/Tree-Family) — Aplikasi web untuk membuat silsilah keluarga
+- [obfuscate-css-otomatis](https://github.com/Yusuf-Ibrahim-Malik-Dev/obfuscate-css-otomatis) — Tool untuk mengaburkan kode CSS secara otomatis
+- [Convert-Text-To-Speech-Pro-And-Translate-Too](https://github.com/Yusuf-Ibrahim-Malik-Dev/Convert-Text-To-Speech-Pro-And-Translate-Too) — Konverter teks ke suara dengan fitur terjemahan
+- [Compare-Syntax](https://github.com/Yusuf-Ibrahim-Malik-Dev/Compare-Syntax) — Bandingkan sintaks berbagai bahasa pemrograman
+- [Convert-String-To-Json](https://github.com/Yusuf-Ibrahim-Malik-Dev/Convert-String-To-Json) — Rapikan kode berantakan menjadi format JSON
+- [Multi-Text-And-Table-Designer-To-HTML](https://github.com/Yusuf-Ibrahim-Malik-Dev/Multi-Text-And-Table-Designer-To-HTML) — Editor visual untuk membuat teks dan tabel HTML
+- [Aplikasi-Toko-Modern](https://github.com/Yusuf-Ibrahim-Malik-Dev/Aplikasi-Toko-Modern) - Aplikasi desktop untuk memonitoring data toko.
+
 
 ## 🚀 Bidang Pengembangan
 
@@ -106,8 +118,9 @@ Saya memiliki ketertarikan dalam membangun aplikasi yang terstruktur, mudah dike
 <a href="https://github.com/Yusuf-Ibrahim-Malik-Dev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 </div>
----
+
 
 <div align="center">
 
@@ -116,15 +129,3 @@ Saya memiliki ketertarikan dalam membangun aplikasi yang terstruktur, mudah dike
 Terima kasih sudah mengunjungi profil saya! ⭐
 
 </div>
-
-
-
-## Proyek Unggulan
-
-- [Tree-Family](https://github.com/Yusuf-Ibrahim-Malik-Dev/Tree-Family) — Aplikasi web untuk membuat silsilah keluarga
-- [obfuscate-css-otomatis](https://github.com/Yusuf-Ibrahim-Malik-Dev/obfuscate-css-otomatis) — Tool untuk mengaburkan kode CSS secara otomatis
-- [Convert-Text-To-Speech-Pro-And-Translate-Too](https://github.com/Yusuf-Ibrahim-Malik-Dev/Convert-Text-To-Speech-Pro-And-Translate-Too) — Konverter teks ke suara dengan fitur terjemahan
-- [Compare-Syntax](https://github.com/Yusuf-Ibrahim-Malik-Dev/Compare-Syntax) — Bandingkan sintaks berbagai bahasa pemrograman
-- [Convert-String-To-Json](https://github.com/Yusuf-Ibrahim-Malik-Dev/Convert-String-To-Json) — Rapikan kode berantakan menjadi format JSON
-- [Multi-Text-And-Table-Designer-To-HTML](https://github.com/Yusuf-Ibrahim-Malik-Dev/Multi-Text-And-Table-Designer-To-HTML) — Editor visual untuk membuat teks dan tabel HTML
-- [Aplikasi-Toko-Modern](https://github.com/Yusuf-Ibrahim-Malik-Dev/Aplikasi-Toko-Modern) - Aplikasi desktop untuk memonitoring data toko.
